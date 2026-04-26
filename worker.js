@@ -383,7 +383,7 @@ const HTML_CONTENT = `<!DOCTYPE html>
                     • 每行一个IP：``<br>
                     • IP:端口：``<br>
                     • IP|名称：``<br>
-                    • 完整格式：`IP|国家|端口`
+                    • 完整格式：`IP|端口|地址`
                 </div>
                 
                 <div class="stats">
