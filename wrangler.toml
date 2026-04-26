@@ -1,0 +1,8 @@
+name = "vless-tools"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+# 路由配置 - 改成你自己的域名
+# routes = [
+#   { pattern = "tools.010296.xyz", zone_name = "010296.xyz" }
+# ]
