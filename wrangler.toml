@@ -2,7 +2,7 @@ name = "v2"
 main = "worker.js"
 compatibility_date = "2024-01-01"
 
-# 路由配置 - 改成你自己的域名
+# 如果你有自定义域名，取消下面这行注释并修改
 # routes = [
-#   { pattern = "tools.010296.xyz", zone_name = "010296.xyz" }
+#   { pattern = "v2.010296.xyz", zone_name = "010296.xyz" }
 # ]
