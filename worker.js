@@ -264,7 +264,7 @@ const HTML_CONTENT = `<!DOCTYPE html>
                     <div class="row">
                         <div class="field">
                             <label>旧 ProxyIP</label>
-                            <input type="text" id="oldProxy" placeholder="如: kr.william.us.ci">
+                            <input type="text" id="oldProxy" placeholder="如: krliam.us.ci">
                         </div>
                         <div class="field">
                             <label>新 ProxyIP</label>
@@ -294,18 +294,18 @@ const HTML_CONTENT = `<!DOCTYPE html>
                     <div class="row">
                         <div class="field">
                             <label>服务器地址</label>
-                            <input type="text" id="address" placeholder="87.83.100.1">
+                            <input type="text" id="address" placeholder="87.8.100.1">
                         </div>
                         <div class="field">
                             <label>端口</label>
-                            <input type="text" id="port" placeholder="443">
+                            <input type="text" id="port" placeholder="43">
                         </div>
                     </div>
                     
                     <div class="row">
                         <div class="field">
                             <label>TLS SNI</label>
-                            <input type="text" id="sni" placeholder="joeyhuang.19960102.xyz">
+                            <input type="text" id="sni" placeholder="joeyh102.xyz">
                         </div>
                         <div class="field">
                             <label>Fingerprint</label>
@@ -346,7 +346,7 @@ const HTML_CONTENT = `<!DOCTYPE html>
                     <div class="row">
                         <div class="field">
                             <label>Host</label>
-                            <input type="text" id="host" placeholder="joeyhuang.19960102.xyz">
+                            <input type="text" id="host" placeholder="joey102.xyz">
                         </div>
                         <div class="field">
                             <label>Path</label>
@@ -380,9 +380,9 @@ const HTML_CONTENT = `<!DOCTYPE html>
                 
                 <div class="note">
                     💡 支持多种格式：<br>
-                    • 每行一个IP：`87.83.100.1`<br>
-                    • IP:端口：`87.83.100.1:443`<br>
-                    • IP|名称：`87.83.100.1|美国`<br>
+                    • 每行一个IP：``<br>
+                    • IP:端口：``<br>
+                    • IP|名称：``<br>
                     • 完整格式：`IP|国家|端口`
                 </div>
                 
